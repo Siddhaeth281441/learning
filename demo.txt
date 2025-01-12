@@ -1,1 +1,10 @@
-this is a demo.txt file
+This is a demo.txt file.
+git
+git cli
+git gui
+python 
+c++
+java
+sql
+jupyter
+react
